@@ -39,7 +39,8 @@ EventEase is an Android application developed using Java in Android Studio. The 
 
 ## Screenshots
 
-(Add screenshots of Login, Event Planner, Weather, and Event Ideas screens here.)
+<img width="460" height="861" alt="image" src="https://github.com/user-attachments/assets/5ef99e85-1027-4b25-baf4-e9a524219f75" />
+
 
 ## Author
 
