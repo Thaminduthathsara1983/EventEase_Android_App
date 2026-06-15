@@ -40,6 +40,8 @@ EventEase is an Android application developed using Java in Android Studio. The 
 ## Screenshots
 
 <img width="460" height="861" alt="image" src="https://github.com/user-attachments/assets/5ef99e85-1027-4b25-baf4-e9a524219f75" />
+<img width="475" height="853" alt="image" src="https://github.com/user-attachments/assets/ac6b1d0d-f509-42f3-8010-1c33278bfc30" />
+
 
 
 ## Author
